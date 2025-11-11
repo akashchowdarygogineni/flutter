@@ -1,20 +1,7 @@
  
 5. b) Implement state management using set State and Provider. 
  
-Pubspec.yaml 
-dependencies: 
-  flutter: 
-    sdk: flutter 
- 
-  provider: ^6.1.1  # ✅ Add provider here 
- 
-  # The following adds the Cupertino Icons font to your application. 
-  # Use with the CupertinoIcons class for iOS style icons. 
-  cupertino_icons: ^1.0.8 
- 
-dev_dependencies: 
-  flutter_test: 
-    sdk: flutter 
+
  
 import 'package:flutter/material.dart'; 
 import 'package:provider/provider.dart'; 
